@@ -1,0 +1,17 @@
+Que 1. Create a div, p, and h1 into the dom using js dom manipulation and not html.
+
+Que 2. Remove all the above created elements using dom manipulation.
+
+Que 3. 
+    <div id="parent">
+        <div id="firstchild">i am a first child</div>
+        <p id="secondchild">i am the second child</p>
+        <h4>i am alive</h4>
+        <h1>hello world</h1>
+        <p>i am the last child</p>
+    </div> 
+
+Append a child element <p> to parent element div with id parent
+hint: create a p element using js
+      Add text to that p element 
+      append the newly created element to div 
