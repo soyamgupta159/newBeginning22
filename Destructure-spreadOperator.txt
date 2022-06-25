@@ -1,0 +1,25 @@
+Que 1. Write a function called displayName() that takes an object as an argument and prints the person's first and last name. Use object destructuring in the function argument. And also, use template strings when printing the first and last name.
+
+Ques 2. Create a function named goToSecondClass() that accepts a destructured object as a parameter. The parameter extracts the "secondHour" property of the object. The function should return this statement:
+
+sample object 
+
+const myClasses = {
+  firstHour: "Ethics",
+  secondHour: "Programming",
+  thirdHour: "Biology"
+};
+
+Que 3. let colors = ["white", "blue", "yellow", "black", "red", "green"];
+Using array destructuring assign the first 2 elements to firstColor and secondColor variables and assign the remaining elements to otherColors variable. Display the values of these 3 variables.
+
+Que 4.
+ Create an object with a property, arr, that is, set to an array containing the values 1, 2, and 3. Save the object into the data variable.
+
+Destructure the second value of the array into a variable by doing the following:
+
+Destructure the arr property from the object and save it into a new variable called v2, which is the array. Replace v2 with array destructuring.
+
+In the array destructuring, skip the first element. Save the second element into a variable called v2.
+
+Log the variable.
